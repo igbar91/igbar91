@@ -1,6 +1,8 @@
 <div align="center">
 
 ## Hi there 👋😄👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Figbar91%2Fhit-counter&count_bg=%23F95099&title_bg=%23EC978C&icon=buymeacoffee.svg&icon_color=%23824E23&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
 ![halong](https://user-images.githubusercontent.com/69234252/213954827-9c7d1385-0d61-400c-9d92-318a33c173f0.jpg)
 
 
